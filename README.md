@@ -1,16 +1,17 @@
-# dice
+# Dice 🎲
 
-A new Flutter project.
+## Description
 
-## Getting Started
+Dice roller app, you can make the dice roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
 
-This project is a starting point for a Flutter application.
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter stateless widgets to design the user interface.
+- Flutter stateful widgets to update the user interface.
+- Changing the properties of various widgets.
+- onPressed listeners to detect when buttons are pressed.
+- setState to mark the widget tree as dirty and requiring update on the next render.
+- Expanded to make widgets adapt to screen dimensions.
+- Code and use gesture controls.
